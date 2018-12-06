@@ -1,3 +1,3 @@
 <template>
-    <h1>Welcome to the Whites Hat Repository Webcitys</h1>
+    <h1>Place</h1>
 </template>
