@@ -1,3 +1,3 @@
 <template>
-    <h1>Place</h1>
+    <h1>Place Holder</h1>
 </template>
